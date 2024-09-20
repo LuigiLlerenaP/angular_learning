@@ -1,5 +1,5 @@
 import "./style.css";
-import "./topics/05-function-destructuring";
+import "./topics/10_optional-chaining";
 
 document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
   <div style="text-align: center; margin-top: 20px;">
